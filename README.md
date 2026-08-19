@@ -3,10 +3,7 @@
 یک سامانه جامع، ماژولار و ریسپانسیو برای ثبت آگهی، خرید و فروش بدون واسطه و گفتگوی زنده خریدار و فروشنده با معماری امن **PHP (PDO)** و پایگاه داده رابطه‌ای **MySQL**.
 
 ---
-![Login Page](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/login.png)
-![Dashboard](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/dashboard.png)
-![Item Page](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/item.php.png)
-![Chat](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/chat.png)
+
 
 ## ✨ ویژگی‌های کلیدی سیستم
 
