@@ -1,0 +1,11 @@
+
+database.php
+
+upload/*
+!upload/.gitkeep
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

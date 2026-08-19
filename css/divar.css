@@ -1,0 +1,99 @@
+body {
+    font-family: 'Vazirmatn';
+    background-color: #f8f9fa;
+    color: #242424;
+}
+
+.main-header {
+    background-color: #fff;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.search-box {
+    background-color: #f0f0f1;
+    border-radius: 8px;
+    padding: 8px 15px;
+}
+.search-box input {
+    background: transparent;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.sidebar-category {
+    color: #444;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 8px;
+    transition: 0.2s;
+}
+.sidebar-category:hover {
+    background-color: #f0f0f1;
+    color: #a62626;
+}
+.sidebar-category i {
+    width: 25px;
+    color: #888;
+}
+
+.ad-card {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 12px;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease;
+    height: 100%;
+}
+.ad-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-color: #ccc;
+}
+.ad-details {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 15px;
+}
+.ad-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+.ad-meta {
+    font-size: 0.85rem;
+    color: #777;
+}
+.ad-price {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #333;
+}
+.ad-img {
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.bottom-nav {
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.05);
+    z-index: 1040;
+}
+.nav-item-bottom {
+    color: #888;
+    text-decoration: none;
+    font-size: 0.75rem;
+    padding: 8px 0;
+}
+.nav-item-bottom.active {
+    color: #a62626;
+    font-weight: bold;
+}
