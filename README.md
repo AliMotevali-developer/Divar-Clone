@@ -5,7 +5,7 @@
 ---
 ![Login Page](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/login.png)
 ![Dashboard](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/dashboard.png)
-![Item Page](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/item.php.png)
+![Item Page](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/item.png)
 ![Chat](https://raw.githubusercontent.com/AliMotevali-developer/Divar-Clone/main/chat.png)
 
 
